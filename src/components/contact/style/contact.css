@@ -1,0 +1,19 @@
+#contact{
+    margin-top: 4rem;
+}
+#contact h2{
+    padding: 15px 0px 35px;
+    margin-bottom: 0px;
+    font-size: 45px;
+    font-weight: 400;
+}
+#contact .contactinfo{
+    color: #1d2dfd;
+    font-size: 20px;
+}
+#contact a i{
+color:  gray;
+margin-right: 3%;
+font-size: 1.5rem;
+padding: 1rem 0;
+}

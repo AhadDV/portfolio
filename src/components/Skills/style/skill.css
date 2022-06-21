@@ -1,0 +1,30 @@
+#skills{
+
+    margin-top: 2rem;
+}
+#skills .title p{
+    color: black;
+    padding: 1rem 0px 1.3rem;
+    margin-bottom: 0px;
+    font-size: 1.9rem;
+}
+#skills .skills .skill{
+    padding: 1rem 1rem;
+}
+#skills .skills .skill .skillName{
+    margin-bottom: 15px;
+}
+#skills .skills .skill .skillBack{
+    position: absolute;
+    height: 5px;
+    background-color: rgb(189, 187, 187);
+    width: 90%;
+    border-radius: 10px;
+}
+#skills .skills .skill  .skillPercent{
+    position: absolute;
+    border-radius: 10px;
+
+    height: 5px;
+    background-color: blue;
+}

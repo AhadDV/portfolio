@@ -1,0 +1,19 @@
+#project{
+ 
+    padding: 0 2%;
+    background-color: blue;
+}
+#project .title p{
+        color: white;
+        padding: 1rem 0px 1.3rem;
+        margin-bottom: 0px;
+        font-size: 1.7rem;
+}
+#project .projects .project{
+    margin-bottom: 10px;
+}
+
+#project .projects .project a img{
+    width: 100%;
+  
+}

@@ -1,0 +1,32 @@
+#exp{
+    margin-top: 3rem;
+    
+}
+#exp h2{
+    padding: 35px 0px 50px;
+    margin-bottom: 0px;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif!important;
+    color: inherit;
+    font-weight: 500;
+    
+}
+#exp .expItem {
+    position: relative;
+    border-left: 1px solid blue;
+    padding-left: 1rem;
+    margin: 0px;
+    padding: 20px 0px 1px 20px;
+    margin-left: 1%;
+}
+#exp .expItem h4 {
+    font-family: 'Montserrat', sans-serif!important;
+    font-weight: 500;
+  
+}
+#exp .expItem img{
+    width: 19px;
+    position: absolute;
+    left: -1.9%;
+    top: -0.8%;
+}
